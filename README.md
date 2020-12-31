@@ -15,4 +15,7 @@ Created an app where the user should be able to upload an image at any size, and
 
 - Upload a jpg to the lambda-lab17 lambda file and it will be resized and placed into the lambda-lab17-resize
 
-- My collegues, TAs and I were not able to solve my bug. I am able to upload a photo but it does not show up in the resize file
+## Images
+
+- [Image](IMG1.jpg)
+- [Resized Image](resized-IMG_0437.jpg)
