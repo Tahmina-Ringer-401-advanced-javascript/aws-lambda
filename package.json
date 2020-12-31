@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Tahmina-Ringer-401-advanced-javascript/aws-lambda#readme",
   "dependencies": {
-    "sharp": "^0.27.0"
+    "sharp": "^0.27.0",
+    "util": "^0.12.3"
   }
 }
